@@ -1,5 +1,12 @@
 # "Mutenight Scene" Theme for Vim
+
+Example within a C++ document:
+
 ![drag](https://i.imgur.com/O5J0VEI.png)
+
+Example within an HTML file:
+
+![drag](https://i.imgur.com/YTWw38i.png)
 
 ---
 **Important**
