@@ -17,6 +17,7 @@ will sort've work with lower thresholds, it wasn't designed for it.
 
 **Vim Plug or other plugin managers:**
 Open your `vim.rc` files, and within the area of adding plugins, add
+
 `Plug: 'HenryNewcomer/vim-theme-mutenight_scene'`.
 
 Now scroll down past the `plug#end()` area and add:
