@@ -4,7 +4,7 @@
 ---
 **Important**
 This theme's colors were chosen with 256-bit color in mind. Although it
-will sort've work with 24-bit colors, it wasn't designed for it.
+will sort've work with lower thresholds, it wasn't designed for it.
 
 ## Installation
 
