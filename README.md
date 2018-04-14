@@ -47,7 +47,7 @@ method. For example, if using Vim Plug, you'd add the lines after `plug#end()`.
 
 ---
 
-Todo: Update the base-16 representations so they correspond with with the hex
+Todo: Update the 8-bit color representations so they correspond with with the hex
 colors.
 
 I haven't tested this theme using every language that Vim supports, but most of
