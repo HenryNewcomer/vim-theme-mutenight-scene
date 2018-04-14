@@ -47,6 +47,9 @@ method. For example, if using Vim Plug, you'd add the lines after `plug#end()`.
 
 ---
 
+Todo: Update the base-16 representations so they correspond with with the hex
+colors.
+
 I haven't tested this theme using every language that Vim supports, but most of
 the more popular ones should look good. If you notice any oddities or have any
 questions, feel free to e-mail me at a.cliche.email@gmail.com
