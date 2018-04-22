@@ -14,12 +14,12 @@ if exists("syntax_on")
 endif
 
 let g:colors_name = "mutenight_scene"
-"set t_Co=256
+set t_Co=256
 
 "hi CTagsMember -- no settings --
 "hi CTagsGlobalConstant -- no settings --
 "hi Ignore -- no settings --
-hi Normal guifg=#ffffff guibg=#415765 guisp=#415765 gui=NONE ctermfg=15 ctermbg=66 cterm=NONE
+hi Normal guifg=#3399FF guibg=#415765 guisp=#415765 gui=NONE ctermfg=231 ctermbg=24 cterm=NONE
 "hi CTagsImport -- no settings --
 "hi CTagsGlobalVariable -- no settings --
 "hi EnumerationValue -- no settings --
