@@ -17,6 +17,7 @@ will sort've work with lower thresholds, it wasn't designed for it.
 
 **Vim Plug or other plugin managers:**
 Open your `vim.rc` files, and within the area of adding plugins, add
+
 `Plug: 'HenryNewcomer/vim-theme-mutenight_scene'`.
 
 Now scroll down past the `plug#end()` area and add:
@@ -46,11 +47,16 @@ method. For example, if using Vim Plug, you'd add the lines after `plug#end()`.
 
 ---
 
+<<<<<<< HEAD
 Feel free to check out my other themes:
 + https://github.com/HenryNewcomer/vim-theme-papaya
 + https://github.com/HenryNewcomer/vim-theme-underflow
 
 ---
+=======
+Todo: Update the 8-bit color representations so they correspond with with the hex
+colors.
+>>>>>>> 29ccdf05484f3cb5d0dcfdc42cc534bf117bae31
 
 I haven't tested this theme using every language that Vim supports, but most of
 the more popular ones should look good. If you notice any oddities or have any
